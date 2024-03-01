@@ -1,0 +1,6 @@
+<resources>
+    <style name="DarkTheme" parent="Theme.AppCompat">
+        <item name="android:windowBackground">@color/dark_background</item>
+        <!-- Add more dark theme attributes as needed -->
+    </style>
+</resources>
